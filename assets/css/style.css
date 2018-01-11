@@ -1,0 +1,49 @@
+#header{
+	display: flex;
+	justify-content: space-around;
+	padding: 10px;
+	background-color: lightgrey;
+	border: 1px solid blue;
+}
+button > p{
+	display: inline;
+}
+#textbox{
+	display: flex;
+	justify-content: space-around;
+	padding: 10px;
+}
+#textbox > div {
+	border: 2px solid blue;
+	width: 300px;
+	height: 600px;
+}
+#textbox > div > p{
+	float: right;
+	margin: 10px;
+	padding: 5px;
+	border: 1px solid blue;
+	border-radius: 5px;
+}
+h3{
+	font-size: 18px;
+	font-weight: bold;
+}
+.results{
+	width: 250px;
+	display: flex;
+	justify-content: space-around;
+	padding: 5px;
+}
+#html1{
+
+}
+#css1{
+
+}
+#js1{
+
+}
+#result1{
+	
+}
